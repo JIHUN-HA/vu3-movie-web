@@ -6,7 +6,7 @@
 </template>
 
 <style lang="scss" scoped>
-@import "~/scss/main.scss";
+
 .logo { 
   font-family:"Roboto", "sans-serif";
   font-size:20px; 

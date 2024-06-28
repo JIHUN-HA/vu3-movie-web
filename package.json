@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "dev": "webpack serve --mode development",
-    "dev:netlify": "netlify dev",
+    "dev:webpack": "webpack serve --mode development",
+    "dev": "netlify dev",
     "build": "webpack --mode production",
     "lint": "eslint --fix --ext .js, .vue"
   },

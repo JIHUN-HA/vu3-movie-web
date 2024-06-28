@@ -76,8 +76,9 @@ module.exports = (env, options) => {
       new Dotenv()
     ],
     devServer: {
-      // port: 8080,
-      historyApiFallback: true
+      host: 'localhost',
+      port: 8079,
+      hot: true
     }
   }
 }

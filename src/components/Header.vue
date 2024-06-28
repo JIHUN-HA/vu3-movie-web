@@ -56,7 +56,7 @@ import {mapState} from "vuex"
       'image',
       'name'
     ]),
-    
+   
    },
    methods:{
     isMatch(path) { 
