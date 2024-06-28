@@ -4,3 +4,7 @@
 **/.vscode/
 **/.DS_Store/
 **/.cache/
+
+# Local Netlify folder
+.netlify
+.env
